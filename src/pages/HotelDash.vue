@@ -15,12 +15,7 @@
     </q-drawer>
 
     <q-page-container>
-      <div class="q-pa-md">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa natus
-        quod, consequuntur exercitationem aliquam perferendis! At a, autem, rem
-        laborum, reprehenderit inventore iste accusantium error voluptates totam
-        sunt laboriosam atque.
-      </div>
+      <div class="text-h4 q-pa-md">Dashboard Hotel</div>
     </q-page-container>
     <q-footer class="bg-transparent text-white">
       <q-tabs v-model="tab" class="text-primary">
